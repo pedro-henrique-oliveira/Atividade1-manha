@@ -15,8 +15,10 @@ function App() {
     <main>
       <section className={styles.s1} id="s1">
         <div>
-          <h1 className={styles.teste}>Sobre o Conflito</h1>
+          <h1 className={styles.teste}>Guerra entre Israel e palestina </h1>
           <p>A origem do conflito entre Israel e Palestina é complexa e remonta ao início do século XX, envolvendo disputas territoriais, aspirações nacionais e questões religiosas e culturais. Os principais fatores e eventos históricos incluem:</p>
+          <p><strong>Histórico do Conflito</strong></p>
+          <p>Origens: As raízes modernas do conflito remontam ao final do século XIX com o surgimento do sionismo (movimento nacionalista judaico que buscava um Estado judeu na região da Palestina) e a Declaração de Balfour britânica (1917), que apoiava a criação de um "lar nacional para o povo judeu" na área, respeitando os direitos das comunidades não judaicas.</p>
           <ul>
             <li>Movimento sionista e a busca por um lar nacional judaico</li>
             <li>Presença histórica da população árabe palestina na região</li>
