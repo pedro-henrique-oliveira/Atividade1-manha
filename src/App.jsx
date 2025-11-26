@@ -30,7 +30,7 @@ function App() {
       </section>
       
       <section className={styles.s2} id="s2">
-        <h2 className={styles.teste}>História Palestina</h2>
+        <h2 className={styles.teste}>História Palestina <img src="/Palestina.png" alt="" width={50} /></h2>
         <p>A Palestina tem uma história milenar como região do Oriente Médio habitada por diversos povos. No início do século XX, a população era majoritariamente árabe, composta por muçulmanos, cristãos e uma pequena comunidade judaica.</p>
         <p>Antiguidade e Dominações: Habitada por cananeus, hebreus e filisteus, a região foi crucial para rotas comerciais. Após o domínio romano e a diáspora judaica, foi ocupada por árabes e, mais tarde, integrada ao Império Otomano até a Primeira Guerra Mundial.</p>
         <p>Mandato Britânico e Tensão: Sob controle britânico após 1918, a região viu a intensificação da imigração judaica, apoiada pela Declaração de Balfour (1917), gerando crescentes conflitos com a população árabe local.</p>
@@ -40,7 +40,7 @@ function App() {
       </section>
 
       <section id="s3" className={styles.s3}>
-        <h2 className={styles.teste}>História Israel</h2>
+        <h2 className={styles.teste}>História Israel <img src="/israel.png" alt="" width={50} /></h2>
         <p>Antiguidade: Origens na terra de Canaã, formação dos reinos de Israel e Judá, seguidos pelo domínio romano e a diáspora judaica (dispersão) após 70 d.C..</p>
         <p>Sionismo e Imigração: No final do século XIX, o movimento sionista buscou o retorno dos judeus à sua terra ancestral para criar um Estado soberano, intensificando a imigração para a Palestina.</p>
         <p>O Estado de Israel foi proclamado em 14 de maio de 1948, após o término do Mandato Britânico. A criação do Estado foi resultado do movimento sionista, que ganhou força após o Holocausto na Segunda Guerra Mundial.</p>
@@ -84,7 +84,7 @@ function App() {
       </section>
 
       <section id="s6" className={styles.s6}>
-        <h2 className={styles.teste}></h2>
+        <h2 className={styles.s6}></h2>
         <iframe width="1850" height="800" src="https://www.youtube.com/embed/m-cazbbExmY?si=tf_KK1WSvrQZvzyV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         
       </section>
